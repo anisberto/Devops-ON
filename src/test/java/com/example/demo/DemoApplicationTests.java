@@ -10,4 +10,8 @@ class DemoApplicationTests {
 	void contextLoads() {
 		assert(true);
 	}
+		@Test
+	void contextLoadss() {
+		assert(true);
+	}
 }
